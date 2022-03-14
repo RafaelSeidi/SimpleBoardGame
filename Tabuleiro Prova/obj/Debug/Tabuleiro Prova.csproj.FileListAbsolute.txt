@@ -1,0 +1,53 @@
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe.config
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.pdb
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csprojResolveAssemblyReference.cache
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Form1.resources
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Properties.Resources.resources
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.GenerateResource.Cache
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.exe
+F:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.pdb
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe.config
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.pdb
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Form1.resources
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Properties.Resources.resources
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.GenerateResource.cache
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.exe
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.pdb
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe.config
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.exe
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.pdb
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.pdb
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csprojResolveAssemblyReference.cache
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Form1.resources
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Properties.Resources.resources
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.GenerateResource.Cache
+G:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Questao.resources
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Questao.resources
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csprojAssemblyReference.cache
+H:\TPA\Exercícios Form\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.CoreCompileInputs.cache
+F:\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe.config
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.exe
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.pdb
+F:\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe
+F:\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.pdb
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csprojResolveAssemblyReference.cache
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Form1.resources
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Properties.Resources.resources
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Questao.resources
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.GenerateResource.Cache
+F:\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Regras.resources
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe.config
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.exe
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\bin\Debug\Tabuleiro Prova.pdb
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Form1.resources
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Questao.resources
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro_Prova.Regras.resources
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.exe
+C:\Users\User\Desktop\ETEC 1\Tabuleiro Prova\Tabuleiro Prova\obj\Debug\Tabuleiro Prova.pdb
